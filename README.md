@@ -1,6 +1,6 @@
-# 🤖 Simple Chat Bot
+# 🤖 WonderWorld Park Chat Bot
 
-A **minimal yet powerful AI Chat Bot** built using **OpenAI APIs**, combining modern technologies for seamless interaction and clean UI. 🚀
+A **minimal AI Chat Bot** built using **OpenAI APIs**, combining modern technologies for seamless interaction and clean UI. 🚀
 
 ---
 
@@ -15,7 +15,7 @@ It’s lightweight, fast, and designed for simplicity — perfect for learning o
 
 ### 🛠️ Backend
 
-- 🟩 **Bun** — JavaScript runtime environment
+- ⬜️ **Bun** — JavaScript runtime environment
 - ⚡ **Express.js** — Lightweight and fast web framework
 - 🧑‍💻 **TypeScript** — Type-safe, modern JavaScript
 - 🧬 **OpenAI APIs** — Powering the AI responses
@@ -35,7 +35,7 @@ It’s lightweight, fast, and designed for simplicity — perfect for learning o
 
 ## 🚀 Features
 
-- 💬 Real-time chat with AI
+- 💬 Real-time chat with AI about WonderWorld Park
 - 🧠 Type-safe validation with Zod
 - ⚡ Fast and minimal architecture
 - 🎨 Modern, responsive UI
